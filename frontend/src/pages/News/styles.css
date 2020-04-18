@@ -1,0 +1,43 @@
+.news-container{
+    width: 100%;
+    max-width: 1700px;
+    height: 100vh;
+    margin: 0 auto;
+    color: #ffffff;
+}
+
+.title{
+    text-align: center;
+    font: 700 40px 'Roboto Slab', serif;
+}
+
+.subtitle{
+    text-align: center;
+    font: 300 23px 'Roboto Slab', serif;
+    margin-top: 20px;
+}
+
+.newsfont{
+    text-align: center;
+    font: 300 15px 'Roboto Slab', serif;
+    margin-top: 10px;
+}
+
+.image{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.imagefont{
+    text-align: center;
+    font: 300 15px 'Roboto Slab', serif;
+    margin-bottom: 30px;
+}
+
+.bodynews{
+    font: 300 23px 'Roboto Slab', serif;
+    white-space: pre-line;
+    width: 85%;
+    margin: auto;
+    text-align: justify;
+}
